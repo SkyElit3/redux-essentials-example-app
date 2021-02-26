@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fa0e16d7-565c-431e-8d17-474f99bf34d8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614171550193</updated>
       <workItem from="1614171552489" duration="3913000" />
-      <workItem from="1614246312132" duration="4207000" />
+      <workItem from="1614246312132" duration="8757000" />
+      <workItem from="1614325693555" duration="2915000" />
     </task>
     <servers />
   </component>

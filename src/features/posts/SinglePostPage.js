@@ -29,7 +29,7 @@ export const SinglePostPage = ({match}) => {
                     <TimeAgo timestamp={post.date} />
                 </div>
                 <p className="post-content">{post.content}</p>
-                <p><ReactionButtons post={post}/></p>
+                <ReactionButtons post={post}/>
                 <Link to={`/editPost/${post.id}`} className="button">
                     Edit Post
                 </Link>
